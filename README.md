@@ -1,6 +1,6 @@
 # Female Hair Loss Dataset - 4 980 images
 
-This dataset comprises **4,980** images of **2,490** people, providing hairs and losses data points for advanced ***machine learning**. It designed to support **deep learning models** and learning algorithms for **treating hair conditions.**  — **[Get the data](https://unidata.pro/datasets/hair-loss-female-ludwig-scale/?utm_source=github-med&utm_medium=referral&utm_campaign=bald-women-dataset)**
+This dataset comprises **4,980** images of **2,490** people, providing hairs and losses data points for advanced **machine learning**. It designed to support **deep learning models** and learning algorithms for **treating hair conditions.**  — **[Get the data](https://unidata.pro/datasets/hair-loss-female-ludwig-scale/?utm_source=github-med&utm_medium=referral&utm_campaign=bald-women-dataset)**
 
 ## Dataset characteristics:
 | Characteristic          | Data                                                                 |
